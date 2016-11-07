@@ -1,0 +1,14 @@
+Mark has an appointement with the dentist this afternoon. He doesn`n have the car because
+his wife takes it for shopping.
+Mark decides to books a PowerEnjoy car. Mark logs into the mobile app, search for a car near him 
+and reserves a car with 100% the battery very near him!
+When Mark is near the car, he opens the car with the mobile app, ignites the engine and starts to drive.
+When Mark is near to the dentist sees on the map of the car, that near the dentist there is a power grid station,
+so he decides to park there. Before getting of the car, Mark sees on the car screen the amount of payment
+for the trip, but he knows that there will be a discount of 50% because Mark will recharge the car and also she left the car 
+with 70% battery full. 
+Mark plugs the car and goes to the dentist. After 3 minutes he recive an e-mail from his bank that says the paymente 
+for PowerEnjoy goes fine and also an e-mail from PowerEnjoy for the bill.
+Mark is surprise for the bill because the discount is only of 30%, but Mark now remembers that only the bigger discount 
+is take.
+

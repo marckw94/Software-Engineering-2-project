@@ -1,0 +1,10 @@
+Scenario of login
+
+Miss White is a user of PowerEnjoy and she has a 21 years old daugheter calls Martha.
+Miss White is thinking that is daughter use her username and password for use the PowerEnjoy cars.
+She decide to logg for watch the history of prenotation and the relatives payments.
+She write the right username and a wrong password the first time,
+the second she remembers the right password and so she login.
+She click on the part of the site that allowes her to see her history 
+and she discoveres that there are no strange prenotation.
+Miss White is so happy.

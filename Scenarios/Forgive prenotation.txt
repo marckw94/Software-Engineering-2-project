@@ -1,0 +1,9 @@
+Anna needs to go to the Ikea for buy some forniture.
+Before she enters in the ikea she decide to book a PowerEnjoy car. She logs in the mobile app
+and search near her position if there are any car.
+Fortunately there is a car near her avaliable, and she books it.
+She goes to the Ikea and at the moment she is paying in the pay desk she recive an e-mail from
+the powerEnyjoy. The e-mail says that she have to pay 1 euro of fee because she books a car for more than one hour,
+and also the car return available for all.
+Also the bank sends an e-mail of the succsessfull payment of the 1 euro.
+Oh no she stay too much at the ikea! Fortunately anyone take the car, so she books it again and returns to home. 

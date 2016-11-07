@@ -1,0 +1,9 @@
+Scenario for Login
+
+The Senor Bob have a driver license but he don`t have any car because he had to move only in the city and
+think that buy a car is useless.
+So he decide to register PowerEnjoy. He accedes the site, choose a username but it is still use,
+so he decide another not still in use.
+Bob write down in the form also is personal code, email, telephone number, address, and in the end his bank code for 
+all the payments.
+He submits the form and than, after a few minutes, he recives, in the email writes in the form, the password for login the app.
